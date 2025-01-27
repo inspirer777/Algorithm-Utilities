@@ -20,7 +20,7 @@ This repository provides a set of fundamental algorithms and utilities in Python
 ## Usage
 Run the main program to access a menu interface for algorithm demos:
 ```bash
-python algorithm_utilities.py
+python algorithm.py
 ```
 
 ## License
